@@ -15,7 +15,7 @@ xss.io is a cross-site scripting (xss) convenience toolkit. It's purpose is to h
 
 1. Install Redis 2.6 (required for LUA scripting)
 1. Install node.js >= 0.8.4
-1. ```git clone git@github.com:evilpacket/xss.io.git```
+1. ```git clone git://github.com/evilpacket/xss.io.git```
 1. ```cd xss.io```
 1. ```npm install .```
 1. Setup a twitter app id (for authentication) [somebody should add local auth ;)]
